@@ -1,0 +1,16 @@
+*
+!*.*
+!*/
+!*.cpp
+!*.h
+!LICENSE
+!makefile
+!Makefile
+
+*.o
+*.1
+*.log
+*.exe
+/.vscode
+__resources/
+resources/
